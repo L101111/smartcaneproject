@@ -4,4 +4,9 @@
 <img src="logo.jpg" width="400px">
 </br>
   <a href="https://github.com/L101111/smartcaneproject/blob/main/SmartCane.pptx">Презентация</a>
+  <h4><i>Потикян Лиа</i></h4>
+  <h4><i>Харатян Севак</i></h4>
+    <h4><i>ТеванянОганнес</i></h4>
+      <h4><i>Восканян Айк</i></h4>
+  
 </div>
