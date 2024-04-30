@@ -3,6 +3,7 @@
 <h3><i>Презентация проекта для программы «Неограниченные возможности»</i></h3>
   </br>
     <a href="https://github.com/L101111/smartcaneproject/blob/main/SmartCane.pptx">Презентация</a>
+    </br>
 <img src="logo.jpg" width="400px">
 
 
