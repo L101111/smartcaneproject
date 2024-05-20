@@ -1,7 +1,7 @@
 <div align="center">
 <h1>Smart Cane | Pegasus</h1>
 <h3><i>Презентация проекта для программы «Неограниченные возможности»</i></h3>
-    <a href="https://github.com/L101111/smartcaneproject/blob/main/SmartCane.pptx">Презентация</a>
+    <a href="https://github.com/L101111/smartcaneproject/blob/main/SmartCane_Final.pptx">Презентация</a>
     </br>
         </br>
 <img src="logo.jpg" width="400px">
